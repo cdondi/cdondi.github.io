@@ -9,7 +9,7 @@ Welcome to my AI/ML project showcase. This site highlights my deployed machine l
 
 ---
 
-## 📽️ 1. AIML - Movie Recommendation System
+## 📽️ 1. AIML - End-to-end Movie Recommendation System
 
 A hybrid movie recommendation system built using **content-based filtering** and **collaborative filtering**, deployed as an interactive web application with **Streamlit**:
 
@@ -66,7 +66,7 @@ This project is an end-to-end machine learning system to predict customer churn 
 - **Threshold tuning**:
 
 <!-- 🔗 **Live demo:** [View App](https://movielens-3fxvogxfzafxcvmfccfbrd.streamlit.app/) -->
-💻 **Source code:** [GitHub Repo](https://github.com/cdondi/aiml_telco_customer_churn)
+💻 **Source code & README.md:** [GitHub Repo](https://github.com/cdondi/aiml_telco_customer_churn)
 
 ---
 More projects coming soon.

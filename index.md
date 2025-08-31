@@ -25,7 +25,7 @@ A hybrid movie recommendation system built using **content-based filtering** and
 - **Interactive Interface**:
    - Built with Streamlit for a user-friendly experience.
 
-🔗 **Live demo:** [View App](https://your-demo-url.com](https://movielens-3fxvogxfzafxcvmfccfbrd.streamlit.app/) 
+🔗 **Live demo:** [View App](https://movielens-3fxvogxfzafxcvmfccfbrd.streamlit.app/) 
 💻 **Source code:** [GitHub Repo](https://github.com/cdondi/aiml_movie_recommendation)
 
 1. **Enter a Movie Title**:

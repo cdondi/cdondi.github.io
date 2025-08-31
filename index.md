@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Clive Dondi – AI/ML Project Hub
+title: AI/ML Project Hub
 ---
 
-# 🎯 Clive Dondi – AI/ML Project Hub
+# 🎯 Project Demo Hub
 
 Welcome to my AI/ML project showcase. This site highlights my deployed machine learning demos, complete with working frontends, backends, and source code links.
 

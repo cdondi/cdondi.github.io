@@ -66,7 +66,7 @@ This project is an end-to-end machine learning system to predict customer churn 
 - **Threshold tuning**:
 
 <!-- 🔗 **Live demo:** [View App](https://movielens-3fxvogxfzafxcvmfccfbrd.streamlit.app/) -->
-💻 **Source code:** [GitHub Repo](https://github.com/cdondi/aiml_movie_recommendation](https://github.com/cdondi/aiml_telco_customer_churn)
+💻 **Source code:** [GitHub Repo](https://github.com/cdondi/aiml_telco_customer_churn)
 
 ---
 More projects coming soon.

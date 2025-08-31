@@ -19,7 +19,7 @@ A hybrid movie recommendation system built using **content-based filtering** and
    - Adjust weights for content-based and collaborative filtering to get tailored results.
 
 - **Efficient Memory Usage**:
-   - Precomputed cosine similarity matrix stored in HDF5 format for content-based filtering.
+   - Precomputed cosine similarity matrix stored in a FAISS vector store for content-based filtering.
    - Optimized SVD for collaborative filtering.
 
 - **Interactive Interface**:

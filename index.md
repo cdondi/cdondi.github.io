@@ -69,4 +69,4 @@ This project is an end-to-end machine learning system to predict customer churn 
 💻 **Source code & README.md:** [GitHub Repo](https://github.com/cdondi/aiml_telco_customer_churn)
 
 ---
-More projects coming soon.
+<!-- More projects coming soon. -->

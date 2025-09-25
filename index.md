@@ -95,12 +95,7 @@ This is a react dashboard that visualizes backtesting results using simulated st
 #### **Trade Logs Tab**
 - Lists individual trades with: Entry/Exit times, PnL, RRR
 #### **Charts Tab**
-- Loads matching historical OHLCV + indicators
-- Plots:
-  - Price candles
-  - MACD & Signal
-  - RSI
-  - Trade entry/exit markers
+- Loads matching historical OHLCV + indicators with trade entry/exit markers
 #### **Symbol Summary Tabs**
 - Summary of symbol-specific trade metrics
 - Includes win/loss distributions, bar charts, etc.

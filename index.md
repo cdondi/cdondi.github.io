@@ -69,4 +69,18 @@ This project is an end-to-end machine learning system to predict customer churn 
 💻 **Source code & README.md:** [GitHub Repo](https://github.com/cdondi/aiml_telco_customer_churn)
 
 ---
-<!-- More projects coming soon. -->
+## 📽️ 3. Azure Python Chatbot
+
+This project implements a Retrieval-Augmented Generation (RAG) system using Azure services to create an intelligent Q&A system based on Python documentation. The system is now fully deployed to production with comprehensive monitoring, authentication, and automated deployment capabilities.
+
+- **Containerized deployment** to Azure App Service using optimized Docker images
+- **Azure Kubernetes Service (AKS) deployment** for container orchestration and learning
+- **GitHub Actions CI/CD** with dual deployment workflows
+- **Application Insights monitoring** with real-time dashboards and alerting
+- **API authentication placeholder and rate limiting** protecting production endpoints
+- **Production testing** completed with real Azure resources and performance validation
+- **Multi-platform deployment strategy** with both App Service and AKS environments
+
+🔗 **Live demo:** [View App](https://rag-app-production-clvd.azurewebsites.net) 
+💻 **Source code:** [GitHub Repo](https://github.com/cdondi/azure_rag_mvp)
+

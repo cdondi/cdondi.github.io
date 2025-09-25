@@ -69,7 +69,7 @@ This project is an end-to-end machine learning system to predict customer churn 
 💻 **Source code & README.md:** [GitHub Repo](https://github.com/cdondi/aiml_telco_customer_churn)
 
 ---
-## 📽️ 3. Azure Python Chatbot
+## 3. Azure Python Chatbot
 
 This project implements a Retrieval-Augmented Generation (RAG) system using Azure services to create an intelligent Q&A system based on Python documentation. The system is now fully deployed to production with comprehensive monitoring, authentication, and automated deployment capabilities.
 
@@ -83,4 +83,32 @@ This project implements a Retrieval-Augmented Generation (RAG) system using Azur
 
 🔗 **Live demo:** [View App](https://rag-app-production-clvd.azurewebsites.net) 
 💻 **Source code:** [GitHub Repo](https://github.com/cdondi/azure_rag_mvp)
+
+---
+## 4. React Time-Series Dashboard
+
+This is a react dashboard that visualizes backtesting results using simulated stock market data
+
+### 🧷 Tabs and Features
+
+#### 1. **Overview Tab**
+- Shows a sortable, filterable table of PnL, Trades, Win Rate, RRR
+
+#### 2. **Trade Logs Tab**
+- Lists individual trades with: Entry/Exit times, PnL, RRR
+
+#### 3. **Charts Tab**
+- Loads matching historical OHLCV + indicators
+- Plots:
+  - Price candles
+  - MACD & Signal
+  - RSI
+  - Trade entry/exit markers
+
+#### 4. **Symbol Summary Tabs**
+- Summary of symbol-specific trade metrics
+- Includes win/loss distributions, bar charts, etc.
+
+
+🔗 **Live demo:** [View App](https://frontend.agreeablesand-333ff870.eastus.azurecontainerapps.io) 
 

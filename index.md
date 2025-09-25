@@ -90,25 +90,21 @@ This project implements a Retrieval-Augmented Generation (RAG) system using Azur
 This is a react dashboard that visualizes backtesting results using simulated stock market data
 
 ### 🧷 Tabs and Features
-
-#### 1. **Overview Tab**
+#### **Overview Tab**
 - Shows a sortable, filterable table of PnL, Trades, Win Rate, RRR
-
-#### 2. **Trade Logs Tab**
+#### **Trade Logs Tab**
 - Lists individual trades with: Entry/Exit times, PnL, RRR
-
-#### 3. **Charts Tab**
+#### **Charts Tab**
 - Loads matching historical OHLCV + indicators
 - Plots:
   - Price candles
   - MACD & Signal
   - RSI
   - Trade entry/exit markers
-
-#### 4. **Symbol Summary Tabs**
+#### **Symbol Summary Tabs**
 - Summary of symbol-specific trade metrics
 - Includes win/loss distributions, bar charts, etc.
 
 
-🔗 **Live demo:** [View App](https://frontend.agreeablesand-333ff870.eastus.azurecontainerapps.io) 
+🔗 **Live demo:** [View App](https://frontend.agreeablesand-333ff870.eastus.azurecontainerapps.io/dashboard) 
 

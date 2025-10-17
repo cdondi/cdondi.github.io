@@ -85,6 +85,7 @@ This project implements a Retrieval-Augmented Generation (RAG) system using Azur
 💻 **Source code:** [GitHub Repo](https://github.com/cdondi/azure_rag_mvp)
 
 ---
+<!-- 
 ## 4. React Time-Series Dashboard
 
 This is a react dashboard that visualizes backtesting results using simulated stock market data
@@ -102,4 +103,5 @@ This is a react dashboard that visualizes backtesting results using simulated st
 
 
 🔗 **Live demo:** [View App](https://frontend.agreeablesand-333ff870.eastus.azurecontainerapps.io/dashboard) 
+-->
 
